@@ -1,5 +1,12 @@
 # Certinia for Developers
 
-[Technical Pack](https://help.financialforce.com/TechnicalReference/2023.2/Default.htm) Explore our API documentation, managed permission sets, and packaged objects.
+## Certinia Product Resources
 
-[Certinia Community](https://erp.force.com/community/login) The place to connect with fellow users, ask questions, share ideas, and more!
+**[Technical Pack](https://help.financialforce.com/TechnicalReference/2023.2/Default.htm)**
+
+Explore our API documentation, managed permission sets, and packaged objects.
+
+**[Certinia Community](https://erp.force.com/community/login)**
+
+The place to connect with fellow users, ask questions, share ideas, and more!
+
